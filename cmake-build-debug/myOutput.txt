@@ -1,0 +1,77 @@
+Manager 1 details:
+Printing manager: 
+Id : 1
+First name : Dennis
+Last name : Ritchie
+Birth year : 1941
+
+Shop 2 details:
+Printing shop: 
+Printing manager: 
+Id : 1
+First name : Dennis
+Last name : Ritchie
+Birth year : 1941
+Name : Jvory
+Closed day : Tuesday
+Is Online : True
+
+
+Manager first name length is too long
+
+
+Shop name length is too long
+~
+Shop name length is too long
+~
+BeOrNot
+Company name length is too long
+Company name length is too long
+~
+There are no shops in this company.
+There are 2 shops in this company. The shops details are : 
+Shop #1 :
+Printing shop: 
+Printing manager: 
+Id : 2
+First name : Steve
+Last name : Jobs
+Birth year : 1955
+Name : KPS
+Closed day : Monday
+Is Online : False
+
+Shop #2 :
+Printing shop: 
+Printing manager: 
+Id : 1
+First name : Dennis
+Last name : Ritchie
+Birth year : 1941
+Name : BeOrNot
+Closed day : Tuesday
+Is Online : True
+
+There are 2 shops in this company. The shops details are : 
+Shop #1 :
+Printing shop: 
+Printing manager: 
+Id : 1
+First name : Dennis
+Last name : Ritchie
+Birth year : 1941
+Name : BeOrNot
+Closed day : Tuesday
+Is Online : True
+
+Shop #2 :
+Printing shop: 
+Printing manager: 
+Id : 2
+First name : Steve
+Last name : Jobs
+Birth year : 1955
+Name : KPS
+Closed day : Monday
+Is Online : False
+
